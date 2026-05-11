@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Product,Category,Quantity,Price,Date
+101,Arun,Laptop,Electronics,1,55000,2026-01-12
+102,Priya,Phone,Electronics,2,30000,2026-01-13
+103,Rahul,Headphones,Accessories,3,2000,2026-01-15
+104,Divya,Keyboard,Accessories,1,1500,2026-01-18
+105,Karthik,Tablet,Electronics,2,25000,2026-01-20
+106,Sneha,Mouse,Accessories,4,800,2026-01-25
+107,Akash,Monitor,Electronics,1,12000,2026-02-01
+108,Meera,Laptop,Electronics,1,60000,2026-02-05
+109,Vijay,Phone,Electronics,1,32000,2026-02-10
+110,Anu,Mouse,Accessories,2,900,2026-02-14
